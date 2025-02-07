@@ -1,0 +1,16 @@
+/* This is comment */
+p{
+    color:aquamarine;
+    background-color: black;
+    font-size:40px;
+    font-weight: 300;
+    text-align:center;
+}
+
+.para{
+    color:rgb(213, 224, 221);
+    background-color: red;
+    font-size:43px;
+    font-weight: 300;
+    text-align:left;
+}
